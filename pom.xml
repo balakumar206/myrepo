@@ -1,0 +1,18 @@
+<project>
+
+<!--  project name -->
+<artifactId>mymavenproject</artifactId>
+
+<!--  company name -->
+<groupId>com.mymavenproject</groupId>
+
+<!--  version of pom xml -->
+<modelVersion>4.0.0</modelVersion>
+
+<!--  version of artifact -->
+<version>1.0</version>
+
+<!--  packaging jar/war file -->
+<packaging>jar</packaging>
+
+</project>
